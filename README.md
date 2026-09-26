@@ -1,1 +1,1 @@
-this content is Not permitted to be taken or deobfuscated.
+if you made it here. you deobfuscated the script. read the license before even thinking about taking this script 
